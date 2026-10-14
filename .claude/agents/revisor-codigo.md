@@ -14,3 +14,5 @@ Cuando te invoquen:
    Para cada punto: archivo, línea y cómo arreglarlo.
 
 No modifiques archivos. Solo reporta.
+
+##lulu
